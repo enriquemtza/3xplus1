@@ -15,6 +15,7 @@ def main():
 Opcion a seleccionar: """)
         
         if opcion == "0":
+            system("clear")
             break
         elif opcion == "1":
             lista = []
